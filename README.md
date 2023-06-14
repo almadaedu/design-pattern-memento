@@ -1,12 +1,12 @@
 <div>
-  <h2 align="center">Arquitetura e Projeto de Software - Design Pattern Mediator</h2>
+  <h2 align="center">Arquitetura e Projeto de Software - Design Pattern Memento</h2>
 </div>
 
 <div>
   
 ## 🤔 Sobre
   
-  <p>Este projeto tem o intuito de apresentar o padrão de projeto Mediator, utilizando a linguagem Java.</p>
+  <p>Este projeto tem o intuito de apresentar o padrão de projeto Memento, utilizando a linguagem Java.</p>
   
 ### ⚙ Suporte de primeiro-nível
 
